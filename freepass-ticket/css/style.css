@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    margin: 0;
+    background-color: black;
+    background-image: url("/images/coupon.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.main-div {
+    margin-top: 4rem;
+    min-height: 500px;
+    text-align: center;
+    width: 100%;
+}
+
+.typewriter-text {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
